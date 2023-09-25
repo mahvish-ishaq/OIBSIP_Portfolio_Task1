@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content=
+		"width=device-width, initial-scale=1.0">
+	<title>Portfolio</title>
+</head>
+
+
+<body>
+	
+	<table id="header" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td>
+							
+
+						</td>
+
+						<td>
+							<font face="ALGERIA" size="9" color="white">
+								<b>Mahvish Ishaq</b>
+							</font>
+						</td>
+
+						<td width="15%">
+							
+						</td>
+
+						<td>
+							<a href="#home" style="text-decoration:none">
+								<font face="NEW TIMES ROMAN" size="6" color="white">
+									Home
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#about" style="text-decoration:none">
+								<font face="NEW TIMES ROMAN" size="6" color="white">
+									About
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#projects" style="text-decoration:none">
+								<font face="NEW TIMES ROMAN" size="6" color="white">
+									Projects
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#work experience" style="text-decoration:none">
+								<font face="NEW TIMES ROMAN" size="6" color="white">
+									Work Experience
+								</font>
+							</a>
+						</td>
+
+						<td>
+							|
+						</td>
+
+						<td>
+							<a href="#contact" style="text-decoration:none">
+								<font face="NEW TIMES ROMAN" size="6" color="white">
+									Contact
+								</font>
+							</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+	<table id="home" border="1" width="100%"
+		cellpadding="20" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td align="center" valign="middle">
+							<h3>
+								<font face="Times New Roman"
+									size="6" color="white">
+									MY PORTFOLIO !.
+								</font>
+							</h3>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table id="about" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="lightblue">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center"
+							valign="middle" colspan="2" >
+							<font face="TIMES NEW ROMAN" size="8"
+								color="black">
+								ABOUT ME
+							</font>
+							<hr color="black" width="120">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="TIMES NEW ROMAN" size="6"
+								color="darkblue">
+								HI !!
+								Greetings to You.
+								I am Mahvish Ishaq, currently pursuing B.Tech from SR UNIVERSITY.
+
+								I am a student of CSE branch. So I am well versed in C language.I am also an expertise in Python,SQL,and HTML,CSS.
+			
+								I designed this website using web development tools like HTML,CSS etc for my WEB DEVELOPMENT INTERNSHIP.
+							
+								Thank you !.
+								<br>
+								
+							</font>
+						</td>
+					</tr>
+				</table>
+				<hr color="black">
+				<hr color="black">
+				<hr color="black">
+			</td>
+		</tr>
+	</table>
+	
+	<table id="projects" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="lightblue">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center"
+							valign="middle" colspan="2">
+							<font face="times new roman" size="7"
+								color="black">
+								PROJECTS
+							</font>
+							<hr color="black" width="90">
+						</td>
+					</tr>
+
+					<tr>
+						<td height="10">
+							<font face="Times New Roman"
+								size="6" color="darkblue">
+								<ul>
+									<li>
+										Minor Project on Password Protected Door lock using Arduino.
+									</li>
+
+									<li>
+										<hr color="lightblue">
+										Auto Wala Money Management System Android Application.
+										
+									</li>
+									<li>
+										<hr color="lightblue">
+										Minor Project-Auto Flush Toilets 
+									</li>
+									
+				
+								</ul>
+							</font>
+						</td>
+
+				
+					</tr>
+				</table>
+				<hr color="black">
+				<hr color="black">
+				<hr color="black">
+			</td>
+		</tr>
+	</table>
+	
+	<table id="work experience" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="lightblue">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center" valign="middle">
+							<font face="Times new Roman" size="7" color="black">
+								EXPERIENCE
+								<hr color="black" width="100">
+							</font>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Times new roman" size="5" color="darkblue">
+								<ul>
+								I am a Fresher still pursuing my B.Tech degree.But I work as an intern and is trying to gain soem experience for future work.
+									<li>
+										<b>CODE ALPHA Internship.</b>
+										<ul>
+											<li>
+												1st July 2023 - 31st July 2023.
+											</li>
+											<li>
+												Web Development Intern.
+											</li>
+										</ul>
+									</li>
+
+									<li>
+									<hr color="lightblue">
+										
+										<b>AICTE Internship</b>
+										<ul>
+											<li>
+												20 May 2023 - 20 June 2023.
+											</li>
+											<li>
+												Domain: Cloud Networking (Juniper).
+											</li>
+										</ul>
+									</li>
+									<li>
+										<b>BHARAT INTERN Internship.</b>
+										<ul>
+											<li>
+												1st July 2023 - 31st July 2023.
+											</li>
+											<li>
+												Web Development Intern.
+											</li>
+										</ul>
+									</li>
+
+								</ul>
+							</font>
+						</td>
+					</tr>
+				</table>
+				<hr color="black">
+				<hr color="black">
+				<hr color="black">
+			</td>
+		</tr>
+	</table>
+
+	<table id="contact" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="lightblue">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center"
+							valign="middle" colspan="2">
+							<font face="Times new roman" size="7"
+								color="black">
+								CONTACT ME
+							</font>
+							<hr color="black" width="90">
+						</td>
+					</tr>
+							<tr>
+								<td height="10">
+									<font face="Times New Roman"
+										size="5" color="darkblue">
+										<ul>
+											<li>
+											 <a>✉</a>
+											 If Any Queries or for Further Information you can Contact me at : +917032125036.  
+											    Mail_ID: ishaqmahvish@1gmail.com
+											</li>
+											
+										</ul>
+									</font>
+								</td>
+					     </tr>
+                       </td>
+					</tr>
+				</table>
+				<hr color="black">
+				<hr color="black">
+				<hr color="black">
+			</td>
+		</tr>
+	</table>
+
+    <hr color="black" width="90">
+	<table id="footer" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td width="13%" valign="top">
+							<b style="color:white">LinkedIn</b>
+							<a href="https://www.linkedin.com/in/mahvish-ishaq-18a8a4279" style="text-decoration:none">
+								➥
+							</a>
+						</td>
+
+						<td width="13%" valign="top">
+							<b style="color:white">GitHub</b>
+							<a href="https://github.com/mahvish-ishaq" style="text-decoration:none">
+								➥
+							</a>
+						</td>
+
+						<td width="13%" valign="top">
+							<b style="color:white">Website</b>
+							<a href="#" style="text-decoration:none">
+								➥
+							</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
